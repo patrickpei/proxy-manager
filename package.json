@@ -1,0 +1,23 @@
+{
+  "name": "proxy-manager",
+  "version": "1.0.0",
+  "description": "Simple proxy manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickpei/proxy-manager.git"
+  },
+  "keywords": [
+    "proxy",
+    "manager"
+  ],
+  "author": "Patrick Pei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patrickpei/proxy-manager/issues"
+  },
+  "homepage": "https://github.com/patrickpei/proxy-manager#readme"
+}
