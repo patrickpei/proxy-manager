@@ -1,5 +1,5 @@
 # Proxy Manager
-
+[![Build Status](https://travis-ci.org/patrickpei/proxy-manager.svg?branch=master)](https://travis-ci.org/patrickpei/proxy-manager)
 [![NPM version](https://img.shields.io/npm/v/proxy-manager.svg)](https://www.npmjs.com/package/proxy-manager)
 
 > Proxy Manager is a simple Node library to handle proxies. Currently, the API is completely synchronous.
