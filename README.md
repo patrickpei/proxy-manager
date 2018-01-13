@@ -36,6 +36,7 @@ const options = {
     uri: `<example.url>`
 };
 
+const res = await request(options);
 ```
 
 ### License
