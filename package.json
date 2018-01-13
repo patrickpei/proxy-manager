@@ -4,7 +4,7 @@
   "description": "Simple proxy manager",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/patrickpei/proxy-manager/issues"
   },
-  "homepage": "https://github.com/patrickpei/proxy-manager#readme"
+  "homepage": "https://github.com/patrickpei/proxy-manager#readme",
+  "devDependencies": {
+    "fs-extra": "^5.0.0",
+    "mocha": "^4.1.0"
+  }
 }
